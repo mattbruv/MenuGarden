@@ -1,0 +1,24 @@
+{
+  "name": "menugarden",
+  "version": "1.0.0",
+  "description": "Magnus Carlsen meme name generator",
+  "main": "main.js",
+  "scripts": {
+    "watch": "parcel serve index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbruv/MenuGarden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattbruv/MenuGarden/issues"
+  },
+  "homepage": "https://github.com/mattbruv/MenuGarden#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
